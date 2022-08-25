@@ -23,3 +23,5 @@ Todos los nodos y masters están conectados a una red física para poder hablars
 
 
 ![Captura de Pantalla 2022-08-25 a la(s) 9 59 50 a m](https://user-images.githubusercontent.com/12971146/186699988-a2149597-c301-4d44-a10c-995180f9effa.png)
+
+
